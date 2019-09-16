@@ -27,7 +27,7 @@ ext {
     lib = [
             "aspectjrt"                : "org.aspectj:aspectjrt:1.8.13",
             "cglib"                    : "cglib:cglib:3.2.6",
-            "lombok"                   : "org.projectlombok:lombok:1.18.4",
+            "lombok"                   : "org.projectlombok:lombok:1.18.6",
             "commons-exec"             : "org.apache.commons:commons-exec:1.3",
             "mybatis-plus-boot-starter": "com.baomidou:mybatis-plus-boot-starter:${mybatisPlusVersion}",
             "jobs-spring-boot-starter" : "com.baomidou:jobs-spring-boot-starter:${jobsVersion}",
